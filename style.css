@@ -1,0 +1,17 @@
+
+ .main > h1 {
+    background-color: rgb(148, 7, 7);
+ }
+ body{
+    background-color: chocolate;
+ }
+ a:hover{
+    background-color: beige;
+ }
+ a:checked{
+    background-color: crimson;
+ }
+   a ::after {
+
+    content: "mister";
+ }
